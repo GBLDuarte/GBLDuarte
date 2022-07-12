@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GBLDuarte&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GBLDuarte&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBLDuarte&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBLDuarte&theme=yeblu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GBLDuarte/GBLDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
